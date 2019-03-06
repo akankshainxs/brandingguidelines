@@ -33,7 +33,7 @@ Change settings so it all works
 
 Your navigation is generated from a file in your repository. It's in `_data` and it's called `navs.yml`
 
-It uses the YAML format - there are editors out there to help
+It uses the YAML format - there are editors out there to helpxxx
 
 **Creating pages**
 
